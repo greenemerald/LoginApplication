@@ -16,7 +16,7 @@ public class FramePrincipal extends javax.swing.JFrame {
    
     public FramePrincipal() {
         initComponents();
-        inicializacion();
+       //  inicializacion();
     }
 
     /**
@@ -148,7 +148,7 @@ public class FramePrincipal extends javax.swing.JFrame {
             }
         });
     }
-    public void inicializacion() {
+   /* public void inicializacion() {
         
          ArrayList<Usuario> usuarios = new ArrayList<Usuario>();
   
@@ -185,7 +185,7 @@ public class FramePrincipal extends javax.swing.JFrame {
    
          
     }
-    
+    */
     
 
     
